@@ -1,6 +1,6 @@
 import sys
 import commands
-""For more info about this script refer:
+"""For more info about this script refer:
 http://shell-storm.org/blog/A-binary-analysis-count-me-if-you-can/
 """
 
