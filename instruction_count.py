@@ -2,6 +2,8 @@ import sys
 import commands
 """For more info about this script refer:
 http://shell-storm.org/blog/A-binary-analysis-count-me-if-you-can/
+
+you can find the pintools at http://software.intel.com/en-us/articles/pintool-downloads
 """
 
 
